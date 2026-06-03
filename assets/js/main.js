@@ -1,5 +1,4 @@
 // ==================== FEATURE 1 ====================
-
 function contactAlert() {
     alert("Contact feature updated in Feature1 branch");
 }
@@ -35,7 +34,8 @@ function contactAlert() {
 /*==================== SCROLL SECTIONS ACTIVE LINK ====================*/
 
 
-/*==================== CHANGE BACKGROUND HEADER ====================*/ 
+/*==================== CHANGE BACKGROUND HEADER ====================*/
+//FEATURE 1 TEST
 
 
 /*==================== SHOW SCROLL UP ====================*/ 
