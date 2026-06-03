@@ -37,3 +37,5 @@
 
 
 /*==================== DARK LIGHT THEME ====================*/ 
+// FEATURE2 DARK MODE UPDATE
+function darkModeFeature() { document.body.classList.toggle('dark-theme'); }
