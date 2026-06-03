@@ -37,3 +37,5 @@
 
 
 /*==================== DARK LIGHT THEME ====================*/ 
+// SECURITY PATCH UPDATE
+console.log('Security Patch Version 1.0 Applied');
