@@ -1,3 +1,6 @@
+function contactAlert() {
+    alert("Contact feature updated in Feature1 branch");
+}
 /*==================== MENU SHOW Y HIDDEN ====================*/
 
 
